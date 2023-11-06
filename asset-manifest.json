@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dab95591.css",
-    "main.js": "/static/js/main.5e66d416.js",
+    "main.css": "/static/css/main.3f1221d6.css",
+    "main.js": "/static/js/main.983b5ae8.js",
     "static/js/787.dd33a981.chunk.js": "/static/js/787.dd33a981.chunk.js",
     "static/media/rota-regular-webfont.woff": "/static/media/rota-regular-webfont.726a2218de59dc9809cb.woff",
     "static/media/rota-bold-webfont.woff": "/static/media/rota-bold-webfont.285abfca4144e62903f1.woff",
@@ -15,12 +15,12 @@
     "static/media/snowflake.svg": "/static/media/snowflake.44185d1b1273dd993d5b24ac4e58dac8.svg",
     "static/media/fire.svg": "/static/media/fire.cf3433ca842cc761638859cafc5ada76.svg",
     "index.html": "/index.html",
-    "main.dab95591.css.map": "/static/css/main.dab95591.css.map",
-    "main.5e66d416.js.map": "/static/js/main.5e66d416.js.map",
+    "main.3f1221d6.css.map": "/static/css/main.3f1221d6.css.map",
+    "main.983b5ae8.js.map": "/static/js/main.983b5ae8.js.map",
     "787.dd33a981.chunk.js.map": "/static/js/787.dd33a981.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dab95591.css",
-    "static/js/main.5e66d416.js"
+    "static/css/main.3f1221d6.css",
+    "static/js/main.983b5ae8.js"
   ]
 }
